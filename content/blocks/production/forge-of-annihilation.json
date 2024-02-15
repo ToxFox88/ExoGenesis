@@ -160,11 +160,7 @@
     "power": 80,
     "items": {
       "items": [
-        "primal-red/150",
-        "surge-alloy/100",
-        "titanium/100",
-        "volcanite/100",
-        "osmium/100"
+        "blue-titan-alloy/1",
       ]
     }
   },
@@ -180,5 +176,14 @@
     "osmium/1000"
   ],
   "category": "crafting",
-  "outputItem": "annihilation-crystal/1"
+  "research": "b-calamity-forge",
+  "outputItem": [
+    #"annihilation-crystal/1",
+    "terrilium/1",
+    "gamma-green/50",
+    "omega-blue/50",
+    "silicon/50",
+    "jupiteium/50",
+    "osmium/50",
+  ]
 }
