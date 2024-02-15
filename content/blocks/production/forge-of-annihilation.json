@@ -165,8 +165,6 @@
     }
   },
   "requirements": [
-    "primal-red/1000",
-    "volcanite/2000",
     "thorium/2000",
     "titanium/1000",
     "plastanium/1000",
