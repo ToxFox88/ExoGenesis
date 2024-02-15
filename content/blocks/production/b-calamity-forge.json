@@ -225,5 +225,6 @@
   ],
   "envRequired": 0,
   "category": "crafting",
+  "research": "b-cold-plasma-fuser",
   "outputItem": "blue-titan-alloy/2"
 }
