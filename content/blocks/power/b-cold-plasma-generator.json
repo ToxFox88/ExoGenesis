@@ -7,7 +7,7 @@
   "minEfficiency": 1,
   "health": 1400,
   "size": 2,
-  "powerProduction": 3.5,
+  "powerProduction": 8,
   "liquidCapacity": 65,
   "drawer": {
     "type": "DrawMulti",
