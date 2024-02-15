@@ -177,7 +177,7 @@
   ],
   "category": "crafting",
   "research": "b-calamity-forge",
-  "outputItem": [
+  "outputItems": [
     "terrilium/1",
     "gamma-green/50",
     "omega-blue/50",
